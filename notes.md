@@ -1,4 +1,4 @@
-[Collaborative notes](https://hackmd.io/8DiiApNUQCeYiTEFrVWsmg)
+[Collaborative notes Day 1](https://hackmd.io/8DiiApNUQCeYiTEFrVWsmg)
 
 Machine learning is about extracting rules from data that generalize to new observations; and that is how it differs from statistics...
 
